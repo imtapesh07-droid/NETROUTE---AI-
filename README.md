@@ -36,5 +36,5 @@ C++ Monitor → Java Backend → Python AI → React Dashboard
 
 ## 👨‍💻 Developer
 
-Built by Tapesh Nandan
+Built by Tapesh Nandan , Rajneesh Raj , Vikash S. Patel , Vishal mathur
 
